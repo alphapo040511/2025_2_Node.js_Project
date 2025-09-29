@@ -1,0 +1,92 @@
+{
+  "1111": {
+    "playerName": "1111",
+    "password": "1234",
+    "resources": {
+      "metal": 500,
+      "crystal": 300,
+      "deuterium": 100
+    },
+    "planets": []
+  },
+  "1122": {
+    "playerName": "1122",
+    "password": "2222",
+    "resources": {
+      "metal": 500,
+      "crystal": 300,
+      "deuterium": 100
+    },
+    "planets": []
+  },
+  "1232": {
+    "playerName": "1232",
+    "password": "2222",
+    "resources": {
+      "metal": 500,
+      "crystal": 300,
+      "deuterium": 100
+    },
+    "planets": []
+  },
+  "1234": {
+    "playerName": "1234",
+    "password": "2222",
+    "resources": {
+      "metal": 500,
+      "crystal": 300,
+      "deuterium": 100
+    },
+    "planets": []
+  },
+  "2234": {
+    "playerName": "2234",
+    "password": "2222",
+    "resources": {
+      "metal": 500,
+      "crystal": 300,
+      "deuterium": 100
+    },
+    "planets": []
+  },
+  "5678": {
+    "playerName": "5678",
+    "password": "1234",
+    "resources": {
+      "metal": 500,
+      "crystal": 300,
+      "deuterium": 100
+    },
+    "planets": []
+  },
+  "2231234": {
+    "playerName": "2231234",
+    "password": "2222",
+    "resources": {
+      "metal": 500,
+      "crystal": 300,
+      "deuterium": 100
+    },
+    "planets": []
+  },
+  "0511": {
+    "playerName": "0511",
+    "password": "2222",
+    "resources": {
+      "metal": 500,
+      "crystal": 300,
+      "deuterium": 100
+    },
+    "planets": []
+  },
+  "": {
+    "playerName": "",
+    "password": "1234",
+    "resources": {
+      "metal": 500,
+      "crystal": 300,
+      "deuterium": 100
+    },
+    "planets": []
+  }
+}
