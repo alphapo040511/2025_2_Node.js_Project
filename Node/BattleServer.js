@@ -352,7 +352,7 @@ class BattleServer{
     // 배틀 종료
     endBattle(battle, winnerId)
     {
-        const loserId = battle.player1 === winnerId ? battle.player2Id : battle.player1Id;
+        const loserId = battle.player1 === winnerId ? battle.player2 : battle.player1;
         const winner = this.players.get(winnerId);
         const loser = this.players.get(loserId);
 
@@ -409,7 +409,7 @@ class BattleServer{
             const battle = this.battles.get(player.battleId);
             if(battle)
             {
-                const opponetId = battle.player1 === playerId ? battle.player2Id : battle.player1Id;
+                const opponetId = battle.player1 === playerId ? battle.player2 : battle.player1;
 
                 this.sendToPlayer(opponetId, {
                     type : 'opponentDisconnected',
